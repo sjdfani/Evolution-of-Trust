@@ -1,0 +1,25 @@
+
+# Default constants for menu
+CONST_SPACE = 40
+CONST_SLEEP_TIME = 3
+
+
+# Default constants for Rules
+CONST_DEFAULT_POPULATION = 25
+CONST_DEFAULT_COUNT_REPLACE_WEAKEST = 5
+CONST_DEFAULT_ROUNDS = 10
+
+
+# Default constants for PayOffs
+CONST_DEFAULT_COOPERATE_COOPERATE = 2.0
+CONST_DEFAULT_COOPERATE_CHEAT = -1.0
+CONST_DEFAULT_CHEAT_COOPERATE = 3.0
+CONST_DEFAULT_CHEAT_CHEAT = 0.0
+
+
+# Default constants for population
+CONST_DEFAULT_CHARACTER_SCORE = 20
+
+# Default constants for game
+IS_RANDOM_NESS = False
+PRINT_LOG = True
